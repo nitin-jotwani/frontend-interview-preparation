@@ -1,0 +1,2 @@
+- executor func refers to func that is passed into the promise constructor. It is invoked immediately.
+- resolutions handler is called when promise is resolved. resolution handler refers to function that is passed into then.

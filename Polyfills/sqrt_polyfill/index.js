@@ -13,3 +13,5 @@ function mySqrt (number) {
         return i - 1;
     return i;
 }
+
+// TODO: Implement using binary search

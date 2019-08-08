@@ -1,4 +1,4 @@
-const result = mySqrt(16);
+const result = mySqrt(8);
 
 console.log(result)
 
@@ -9,5 +9,7 @@ function mySqrt (number) {
         i++;
         result = i * i;
     }
+    if(result>number)
+        return i - 1;
     return i;
 }

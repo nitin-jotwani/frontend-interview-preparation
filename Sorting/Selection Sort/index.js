@@ -11,7 +11,7 @@ function selectionSort (array) {
         minIndex = j;
       }
     }
-    if(minIndex !== i) {
+    if(minIndex !== i) { // ensures that we indeed found element which is small than other
       swap(array, i, minIndex);
     }
   }

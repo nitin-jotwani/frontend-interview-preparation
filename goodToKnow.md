@@ -3,3 +3,6 @@ We know slice works with array only. But we can make it work with objects as lon
 Example in method arguments, they are not normal array, but array like object. So, we can convert it to array using-<br/>
 `Array.prototype.slice.call(arguments)`<br/>
 https://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-work
+
+## Another way of finding middle
+`left+(right-left)/2` is same as `(left+right)/2`, but avoids overflow for large numbers

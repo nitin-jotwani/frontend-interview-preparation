@@ -6,3 +6,6 @@ https://stackoverflow.com/questions/7056925/how-does-array-prototype-slice-call-
 
 ## Another way of finding middle
 `left+(right-left)/2` is same as `(left+right)/2`, but avoids overflow for large numbers
+
+## Recursion vs Stack
+`Recursion` implicitly works as a `stack` only. So, any problem implemented using recursion can be implemented using stack too and other DS.

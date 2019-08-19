@@ -1,8 +1,9 @@
 # Index
 ### Global Object
 ### Execution Context
-### IIFE
 ### Semicolons
+### IIFE
+### Closure
 
 ## Global Object
 Global execution context creates two things for you- `Global Object` & `this`.<br/>
@@ -49,6 +50,12 @@ As parser runs through code, it recog where var and functions are created. It th
 
     - Execution Phase
 In this phase code is executed line by line. Hence, in above value of a is `undefined` because we're trying to print before it is assigned. But it does exists in memory with value `undefined`.
+
+## Semicolon
+In Javascript, semicolons are optional. Syntax parser auto adds it if you didnt. Anywhere it sees an enter or nextline syntax parser adds a semicolon and assumes it's an end of line.<br>
+
+Should you use semicolon or not?<br>
+Yes. Write semicolon by yourself rather than syntax parser doing it for you. You have better handling of code in this case.
 
 ## IIFE
 ### Function Statement
@@ -100,8 +107,20 @@ or
 - Keeps variables separately in execution context of that function and doesn't get placed in global execution context.
 - Code is safe. Whatever you write inside IIFE it will not interfare with anyother code, vars.
 
-## Semicolon
-In Javascript, semicolons are optional. Syntax parser auto adds it if you didnt. Anywhere it sees an enter or nextline syntax parser adds a semicolon and assumes it's an end of line.<br>
-
-Should you use semicolon or not?<br>
-Yes. Write semicolon by yourself rather than syntax parser doing it for you. You have better handling of code in this case.
+## Closure
+Closure are when you return a function from function(function inside function). In this inner function will have access to it's surrounding state (i.e. vars) i.e. it gives access to an outer function scope from inner function.<br>
+Don't get surprised by it's defination. It's just a normal javascript feature. It's obvious inner function is wrapped inside outer function so, inner function can access it's scope because it will be called with the help of outer function right. It's a like parent child. 
+```
+function myFunc(greeting) {
+    return function(name) {
+        console.log(greeting + name);
+    }
+}
+var myFuncResult = myFunc('hi');
+myFuncResult('nitin');
+```
+or it can called like
+```
+myFuncResult('hi')('nitin')
+```
+`myFunc` will return a function. So, to invoke that function you have to call it again using ().

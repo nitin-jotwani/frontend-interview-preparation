@@ -127,7 +127,7 @@ myFuncResult('hi')('nitin')
 
 
 ## Currying
-Currying is a technique of converting a function with multiple arguments(arity), into sequence of function with single argument. `add(1,2,3)` into `add(1)(2)(3)`<br/>
+Currying is a technique of converting a function with multiple arguments(arity), into sequence of function with single argument(arity). `add(1,2,3)` into `add(1)(2)(3)`<br/>
 It's an ability to pass and return functions
 ### why use currying?
 - helpful in event handling

@@ -124,3 +124,11 @@ or it can called like
 myFuncResult('hi')('nitin')
 ```
 `myFunc` will return a function. So, to invoke that function you have to call it again using ().
+
+
+## Currying
+Currying is a technique of converting a function with multiple arguments(arity), into sequence of function with single argument. `add(1,2,3)` into `add(1)(2)(3)`<br/>
+It's an ability to pass and return functions
+### why use currying?
+- helpful in event handling
+- Little pieces can be configured and reused with ease.

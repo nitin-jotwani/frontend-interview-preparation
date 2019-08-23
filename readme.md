@@ -23,6 +23,7 @@ If you're reading and using these guidelines, please feel free to approach me if
 - [Data Structures](https://docs.google.com/document/d/18J9M1XkNqM3YX4zVkU-Qxk8wAqTC-481yq7WKtZFDvM/edit#heading=h.f2myxhcqowh8)
 - Time Complexity [Video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
 - [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
+- [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
 
 ## Before you start coding! Think hard, ask yourself -
 - What type of data you having? Is it array or what? Is it sorted?

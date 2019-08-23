@@ -1,9 +1,10 @@
 # Index
-### Global Object
-### Execution Context
-### Semicolons
-### IIFE
-### Closure
+- [Global Object](#global-object-1)
+- [Execution Context](#execution-context-1)
+- [Semicolons](#semicolon)
+- [IIFE](#iife-1)
+- [Closure](#closure-1)
+- [Currying](#currying-1)
 
 ## Global Object
 Global execution context creates two things for you- `Global Object` & `this`.<br/>

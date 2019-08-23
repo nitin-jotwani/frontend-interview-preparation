@@ -9,3 +9,4 @@
 
 ## Flag
 - `TR` Tricky way of solving
+- `DP` Dynamic Programming

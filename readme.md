@@ -1,5 +1,5 @@
 # Interview Preparation Guidelines & Sources
-This is my own journey describing how I started preparing for good companies. Initially I was confused regarding how and what to start actually! So, thought to make this guide which could help me in future too and may also help you? :) <br>
+This is my own journey describing how I started preparing for good companies. Initially, I was confused regarding how and what to start actually! So, thought to make this guide which could help me in future too and may also help you? :) <br>
 If you're reading and using these guidelines, please feel free to approach me if you want to add anything to it.
 
 `Note:` Whatever is written is written as per my understanding's and observation's during preparation. 
@@ -16,7 +16,7 @@ If you're reading and using these guidelines, please feel free to approach me if
     2. Closures
     3. Currying
 5. Understand `Dynamic Programming` properly. Why DP over greedy? Why DP over recursion?
-6. Keep practising and keep improving. Understand complexity of code whenever you write.
+6. Try to create Ployfills on your own. Pick any function from lodash or ramda and try creating your's.
 
 ## Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
@@ -24,6 +24,9 @@ If you're reading and using these guidelines, please feel free to approach me if
 - Time Complexity [Video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
 - [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
 - [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
+
+## Some good YouTube links
+- [Akshya Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
 
 ## Before you start coding! Think hard, ask yourself -
 - What type of data you having? Is it array or what? Is it sorted?

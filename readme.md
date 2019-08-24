@@ -27,6 +27,7 @@ If you're reading and using these guidelines, please feel free to approach me if
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
+- [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
 ## Before you start coding! Think hard, ask yourself -
 - What type of data you having? Is it array or what? Is it sorted?

@@ -5,7 +5,7 @@ Subset = {2,5,7}
 */
 
 const input = [2, 3, 5, 7, 10];
-const total = 14;
+const total = 20;
 
 const subset = findSubset(input, total);
 console.log(subset);
@@ -35,5 +35,20 @@ function findSubset(input, total) {
             }
         }
     }
+    const nosPicked = [];
+    let totalToMake = 0;
+    let i = input.length-1,
+        j = total;
+    while (j !== 0) {
+        if (i!=0 && result[i][j] === result[i-1][j]) {
+            i--;
+            continue;
+        }
+        const picked = input[i];
+        totalToMake += picked;
+        nosPicked.push(picked);
+        j = j - input[i];
+    }
     console.log(result);
+    return nosPicked.sort((a,b)=>a>b);
 }

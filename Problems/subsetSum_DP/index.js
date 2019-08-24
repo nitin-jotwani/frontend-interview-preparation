@@ -30,7 +30,7 @@ function findSubset(input, total) {
                     result[i][j] = 0;
                 }
                 else {
-                    result[i][j] = i>0?result[i-1][j - input[i]]:result[i][j - input[i]];
+                    result[i][j] = i > 0 ? result[i - 1][j - input[i]] : result[i][j - input[i]];
                 }
             }
         }

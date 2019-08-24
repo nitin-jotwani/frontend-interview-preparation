@@ -1,5 +1,5 @@
-const coins = [1, 2, 3, 5, 10, 3, 6, 8, 9, 22];
-const total = 150;
+const coins = [1, 2, 3, 5, 10];
+const total = 15;
 const result = coinChange(coins, total);
 console.log(result.sort((a, b) => a > b))
 

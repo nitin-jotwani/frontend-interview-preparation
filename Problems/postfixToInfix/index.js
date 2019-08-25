@@ -16,7 +16,7 @@ function convertToInfix(postFix) {
             const pop1 = stack.pop();
             const pop2 = stack.pop();
             const expr = eval[postFix[el]](parseInt(pop2),parseInt(pop1)); // if you want to evaluate and produce output
-            // const expr = pop2 + postFix[el] + pop1; // if you want to create infix string expr
+            // const expr = '(' + pop2 + postFix[el] + pop1 + ')'; // if you want to create infix string expr
             stack.push(expr)
         } else {
             stack.push(postFix[el])

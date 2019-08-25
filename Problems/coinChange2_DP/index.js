@@ -1,7 +1,7 @@
-const coins = [1, 2, 3, 5, 10];
+const coins = [2,3,5,10];
 const total = 15;
 const result = coinChange(coins, total);
-console.log(result.sort((a, b) => a > b))
+console.log(result)
 
 function coinChange(coins, total) {
     const resultArray = [];
@@ -13,7 +13,7 @@ function coinChange(coins, total) {
                 continue;
             }
             if (coins[i] > j) {
-                resultArray[i][j] = i > 0 ? resultArray[i - 1][j] : 0;
+                resultArray[i][j] = i > 0 ? resultArray[i - 1][j] : Infinity;
             } else {
                 resultArray[i][j] = Math.min(
                     (i > 0 ? resultArray[i - 1][j] : Infinity),
@@ -22,12 +22,16 @@ function coinChange(coins, total) {
             }
         }
     }
+    console.log(resultArray)
     let totalRemaining = total;
     let i = coins.length - 1;
     let j = total;
     const denominationPicked = [];
+    if (resultArray[coins.length-1][total] === Infinity) { // SOLUTION DOESNT EXISTS
+        return -1;
+    }
     while (totalRemaining !== 0) {
-        if (resultArray[i][j] === resultArray[i - 1][j]) {
+        if (i > 0 && resultArray[i][j] === resultArray[i - 1][j]) {
             i--;
             continue;
         }
@@ -36,6 +40,6 @@ function coinChange(coins, total) {
         totalRemaining = j - pickCoin;
         j = totalRemaining;
     }
-    console.log('Denominations Picked for Total ', total, ': ', denominationPicked)
-    return denominationPicked;
+    console.log('Denominations Picked :', denominationPicked)
+    return denominationPicked.length;
 }

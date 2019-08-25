@@ -13,9 +13,10 @@ function convertToInfix(postFix) {
     const stack = [];
     for(el in postFix) {
         if(eval[postFix[el]]) {
-            const pop1 = parseInt(stack.pop());
-            const pop2 = parseInt(stack.pop());
-            const expr = eval[postFix[el]](pop2,pop1);
+            const pop1 = stack.pop();
+            const pop2 = stack.pop();
+            const expr = eval[postFix[el]](parseInt(pop2),parseInt(pop1)); // if you want to evaluate and produce output
+            // const expr = pop2 + postFix[el] + pop1; // if you want to create infix string expr
             stack.push(expr)
         } else {
             stack.push(postFix[el])

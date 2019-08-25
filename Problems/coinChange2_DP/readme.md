@@ -17,3 +17,6 @@ In this, DP table looks like this-
 ]
 ```
 https://www.youtube.com/watch?v=J2eoCvk59Rc&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=3
+
+## Another way of solving
+Using 2 1D array - https://www.youtube.com/watch?v=NJuKJ8sasGk

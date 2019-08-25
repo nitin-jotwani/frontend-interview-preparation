@@ -22,7 +22,7 @@ function coinChange(coins, total) {
             }
         }
     }
-    console.log(resultArray)
+    // console.log(resultArray)
     let totalRemaining = total;
     let i = coins.length - 1;
     let j = total;

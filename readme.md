@@ -42,3 +42,23 @@ If you're reading and using these guidelines, please feel free to approach me if
 - `TR` Tricky way of solving
 - `DP` Dynamic Programming
 
+## Topics & Links
+- Critical rendering path
+- React diffing
+- create your own virtual dom
+- closure
+- polyfills
+- hoisting clearly
+- inner functions
+- HOF
+- trees problem and traversal
+- design book reader
+- polyfill for setState
+- https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
+- Critical rendering path
+    - HTTP2
+    - Tree shaking
+    - https://developers.google.com/web/fundamentals/performance/rendering/
+    - https://developers.google.com/web/fundamentals/primers/async-functions
+    - https://developers.google.com/web/fundamentals/performance/get-started/
+

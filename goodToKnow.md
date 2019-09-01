@@ -27,3 +27,6 @@ test test
 ```
 
 So, use normal for loop over arrays always
+
+## JS has decimal issue
+`2.5*6.73` will give `16.825000000000003` So, always use toFixed(2) when expecting decimals.

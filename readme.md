@@ -43,7 +43,8 @@ If you're reading and using these guidelines, please feel free to approach me if
 - `DP` Dynamic Programming
 
 ## Topics & Links
-- Critical rendering path
+- [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+- [Browser Rendering Optimizations](https://developers.google.com/web/fundamentals/performance/rendering/)
 - React diffing
 - create your own virtual dom
 - closure
@@ -54,11 +55,7 @@ If you're reading and using these guidelines, please feel free to approach me if
 - trees problem and traversal
 - design book reader
 - polyfill for setState
-- https://developers.google.com/web/fundamentals/performance/critical-rendering-path/
-- Critical rendering path
-    - HTTP2
-    - Tree shaking
-    - https://developers.google.com/web/fundamentals/performance/rendering/
-    - https://developers.google.com/web/fundamentals/primers/async-functions
-    - https://developers.google.com/web/fundamentals/performance/get-started/
+- https://developers.google.com/web/fundamentals/primers/async-functions
+- HTTP2
+- Tree shaking
 

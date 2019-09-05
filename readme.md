@@ -18,16 +18,20 @@ If you're reading and using these guidelines, please feel free to approach me if
 5. Understand `Dynamic Programming` properly. Why DP over greedy? Why DP over recursion?
 6. Try to create Ployfills on your own. Pick any function from lodash or ramda and try creating your's.
 
-## Links
+## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
 - [Data Structures](https://docs.google.com/document/d/18J9M1XkNqM3YX4zVkU-Qxk8wAqTC-481yq7WKtZFDvM/edit#heading=h.f2myxhcqowh8)
 - Time Complexity [video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
 - [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
-- [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
 - [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
+
+## Interview Preparation
+- [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
+- [Questions - Yangshun Github](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
+- [Questions - Sudheerj Github](https://github.com/sudheerj/javascript-interview-questions)
 
 ## Before you start coding! Think hard, ask yourself -
 - What type of data you having? Is it array or what? Is it sorted?

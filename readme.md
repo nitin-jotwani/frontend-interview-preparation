@@ -1,6 +1,6 @@
 # Interview Preparation Guidelines & Sources
-This is my own journey describing how I started preparing for good companies. Initially, I was confused regarding how and what to start actually! So, thought to make this guide which could help me in future too and may also help you? :) <br>
-If you're reading and using these guidelines, please feel free to approach me if you want to add anything to it.
+This is my journey - how I started preparing for interviews. Initially, it seems confusing how and what to start actually! So, thought to make this guide which could help me in future too and may also help you? :) <br>
+If you're reading and would like to add something to it, please feel free to do so. :) 
 
 `Note:` Whatever is written is written as per my understanding's and observation's during preparation. 
 
@@ -16,7 +16,7 @@ If you're reading and using these guidelines, please feel free to approach me if
     2. Closures
     3. Currying
 5. Understand `Dynamic Programming` properly. Why DP over greedy? Why DP over recursion?
-6. Try to create Ployfills on your own. Pick any function from lodash or ramda and try creating your's.
+6. Try to create Ployfills on your own. Pick any function from lodash or [ramda](https://ramdajs.com) and try creating your's.
 
 ## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
@@ -62,4 +62,15 @@ If you're reading and using these guidelines, please feel free to approach me if
 - https://developers.google.com/web/fundamentals/primers/async-functions
 - HTTP2
 - Tree shaking
-
+- Execution context stack
+- RequestionAnimationframe / cancel
+- RequestIdleCallback / cancel
+- MVC / MVP / MVVM / ELM (high level)
+- Function.prototype
+- .valueOf
+- A bit of test cases
+- Heuristic approach of react diffing
+- Your project understanding
+- The most challenging task
+- Functional programming adv.
+- How costly is the dom painting (Google docs)

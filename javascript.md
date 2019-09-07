@@ -126,6 +126,16 @@ myFuncResult('hi')('nitin')
 ```
 `myFunc` will return a function. So, to invoke that function you have to call it again using ().
 
+A common use for this is creating a function (or class) that has private access to variables.
+```
+const increment = (function () {
+  let count = 0;
+ 
+  return function () {
+    return ++count;
+  }
+})();
+```
 
 ## Currying
 Currying is a technique of converting a function with multiple arguments(arity), into sequence of function with single argument(arity). `add(1,2,3)` into `add(1)(2)(3)`<br/>

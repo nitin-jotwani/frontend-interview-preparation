@@ -21,8 +21,10 @@ If you're reading and would like to add something to it, please feel free to do 
 ## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
 - [Data Structures](https://docs.google.com/document/d/18J9M1XkNqM3YX4zVkU-Qxk8wAqTC-481yq7WKtZFDvM/edit#heading=h.f2myxhcqowh8)
-- Time Complexity [video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
+- [Time Complexity](https://docs.google.com/document/d/1Jqpfxs9GqeqcltwRdPsdDpoOWMxc5PWSpIgKJhsJpew/edit?usp=sharing) [video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
 - [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
+- [ReactJs](https://docs.google.com/document/d/1cGWKGRDYCKwDP7oqLpNKP8cv1Al4Tj1-naz-hVpgosk/edit?usp=sharing)
+- [System Design](https://docs.google.com/document/d/1bG1pBxhkSG3FHuBopj5oKmQpQaQDgNnGg52EOLvdiQU/edit?usp=sharing)
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
@@ -34,10 +36,12 @@ If you're reading and would like to add something to it, please feel free to do 
 - [Questions - Sudheerj Github](https://github.com/sudheerj/javascript-interview-questions)
 
 ## Before you start coding! Think hard, ask yourself -
-- What type of data you having? Is it array or what? Is it sorted?
-- What is required to solve this?
-  - Array|Stack|DP|Recursion
-- Think whether you can apply any algo like binary search if data is an array and sorted?
+- Follow `PEDAC` - understand the `P`roblem `E`xample `D`atastructure `A`lgorithm `C`ode.
+- Problem - Divide into parts
+    - Process the problem [PEDA]
+    - Code [C]
+- PEDAC Guide
+    1. as
 
 ## Naming Conventions
 - `FLAG_problemDesc_algoUsed/TrickDesc`
@@ -47,7 +51,7 @@ If you're reading and would like to add something to it, please feel free to do 
 - `DP` Dynamic Programming
 
 ## Topics & Links
-- [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+- [Critical rendering path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/) [MyDoc](https://docs.google.com/document/d/1CHoBBb9c-Ani0PK_SG3N0rsEv8b3IGeePmHZKsCuk-Y/edit?usp=sharing)
 - [Browser Rendering Optimizations](https://developers.google.com/web/fundamentals/performance/rendering/)
 - React diffing
 - create your own virtual dom

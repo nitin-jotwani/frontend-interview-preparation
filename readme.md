@@ -41,7 +41,18 @@ If you're reading and would like to add something to it, please feel free to do 
     - Process the problem [PEDA]
     - Code [C]
 - PEDAC Guide
-    1. as
+    1. Understand Problem
+        - Expected i/p and o/p
+        - discuss requirements clearly. Leave no room for confusion
+    2. Example
+        - Understand problem with example, validate it once again
+    3. Data Structure
+        - Which DS you will use - Array, Tree, List, Stack
+        - Which concept you can use to solve - Binary search, merge sort, DP, recursion, etc, [read more here]()
+    4. Algorithm
+        - English level understandable algo
+    5. Code with Intent
+        - Implementation of algorithm
 
 ## Naming Conventions
 - `FLAG_problemDesc_algoUsed/TrickDesc`

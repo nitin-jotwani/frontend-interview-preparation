@@ -48,7 +48,7 @@ If you're reading and would like to add something to it, please feel free to do 
         - Understand problem with example, validate it once again
     3. Data Structure
         - Which DS you will use - Array, Tree, List, Stack
-        - Which concept you can use to solve - Binary search, merge sort, DP, recursion, etc, [read more here]()
+        - Which concept you can use to solve - Binary search, merge sort, DP, recursion, etc, [read more here](https://github.com/nitin-jotwani/interview-preparation/blob/master/concepts.md)
     4. Algorithm
         - English level understandable algo
     5. Code with Intent

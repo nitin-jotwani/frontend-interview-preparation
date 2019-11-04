@@ -5,3 +5,4 @@
 - [Given a sorted and rotated array, find if there is a pair with a given sum](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/)
 - [Find the Rotation Count in Rotated Sorted array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
 - [Sum of minimum element of all subarrays of a sorted array](https://www.geeksforgeeks.org/sum-of-minimum-element-of-all-subarrays-of-a-sorted-array/)
+- [Count number of occurrences (or frequency) in a sorted array](https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/)

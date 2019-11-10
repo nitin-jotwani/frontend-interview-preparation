@@ -1,6 +1,5 @@
 # Interview Preparation Guidelines & Sources
-This is my journey - how I started preparing for interviews. Initially, it seems confusing how and what to start actually! So, thought to make this guide which could help me in future too and may also help you? :) <br>
-If you're reading and would like to add something to it, please feel free to do so. :) 
+This is my journey - how I started preparing for interviews. Initially, it seems confusing how and what to start actually! So, thought to make this guide. :) <br>
 
 `Note:` Whatever is written is written as per my understanding's and observation's during preparation. 
 
@@ -17,12 +16,14 @@ If you're reading and would like to add something to it, please feel free to do 
     3. Currying
 5. Understand `Dynamic Programming` properly. Why DP over greedy? Why DP over recursion?
 6. Try to create Ployfills on your own. Pick any function from lodash or [ramda](https://ramdajs.com) and try creating your's.
+7. Cover up `JS` in depth various topics from my JS Doc.
 
 ## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
 - [Data Structures](https://docs.google.com/document/d/18J9M1XkNqM3YX4zVkU-Qxk8wAqTC-481yq7WKtZFDvM/edit#heading=h.f2myxhcqowh8)
 - [Time Complexity](https://docs.google.com/document/d/1Jqpfxs9GqeqcltwRdPsdDpoOWMxc5PWSpIgKJhsJpew/edit?usp=sharing) [video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
 - [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
+- [Critical Rendering Path](https://docs.google.com/document/d/1CHoBBb9c-Ani0PK_SG3N0rsEv8b3IGeePmHZKsCuk-Y/edit?usp=sharing)
 - [ReactJs](https://docs.google.com/document/d/1cGWKGRDYCKwDP7oqLpNKP8cv1Al4Tj1-naz-hVpgosk/edit?usp=sharing)
 - [System Design](https://docs.google.com/document/d/1bG1pBxhkSG3FHuBopj5oKmQpQaQDgNnGg52EOLvdiQU/edit?usp=sharing)
 
@@ -30,10 +31,16 @@ If you're reading and would like to add something to it, please feel free to do 
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
 - [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
-## Interview Preparation
-- [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
+## Interview Questions
 - [Questions - Yangshun Github](https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md)
 - [Questions - Sudheerj Github](https://github.com/sudheerj/javascript-interview-questions)
+
+## Coding Preparation
+- [Geeks For Geeks All](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
+- [Geeks For Geeks DS](https://www.geeksforgeeks.org/data-structures/)
+- [Cracking The Coding Interview Book](https://drive.google.com/file/d/1ATfuhzCW73zl3CL5kL3xp5PEq_lAip9f/view?usp=sharing)
+- [Cracking The Code Process](https://drive.google.com/file/d/1wuVRhzlO8owvii_hzUZbvb7nRP_C2QMA/view?usp=sharing)
+- [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)
 
 ## Before you start coding! Think hard, ask yourself -
 - Follow `PEDAC` - understand the `P`roblem `E`xample `D`atastructure `A`lgorithm `C`ode.

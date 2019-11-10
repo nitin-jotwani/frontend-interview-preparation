@@ -26,6 +26,8 @@ This is my journey - how I started preparing for interviews. Initially, it seems
 - [Critical Rendering Path](https://docs.google.com/document/d/1CHoBBb9c-Ani0PK_SG3N0rsEv8b3IGeePmHZKsCuk-Y/edit?usp=sharing)
 - [ReactJs](https://docs.google.com/document/d/1cGWKGRDYCKwDP7oqLpNKP8cv1Al4Tj1-naz-hVpgosk/edit?usp=sharing)
 - [System Design](https://docs.google.com/document/d/1bG1pBxhkSG3FHuBopj5oKmQpQaQDgNnGg52EOLvdiQU/edit?usp=sharing)
+- [Concepts, Algos, Techniques](https://github.com/nitin-jotwani/interview-preparation/blob/master/concepts.md)
+- [Good to know](https://github.com/nitin-jotwani/interview-preparation/blob/master/goodToKnow.md)
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)

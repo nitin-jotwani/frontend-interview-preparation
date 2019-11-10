@@ -1,8 +1,6 @@
 # Interview Preparation Guidelines & Sources
 This is my journey - how I started preparing for interviews. Initially, it seems confusing how and what to start actually! So, thought to make this guide. :) <br>
 
-`Note:` Whatever is written is written as per my understanding's and observation's during preparation. 
-
 ## How to start?
 1. Start from the basics. Brush up your `JS` well enough.
 2. Cover up Data Structures main topics like sorting, searching, binary tree algorithms only for a now.

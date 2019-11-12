@@ -36,8 +36,7 @@ This is my journey - how I started preparing for interviews. Initially, it seems
 - [Questions - Sudheerj Github](https://github.com/sudheerj/javascript-interview-questions)
 
 ## Coding Preparation
-- [Geeks For Geeks All](https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/)
-- [Geeks For Geeks DS](https://www.geeksforgeeks.org/data-structures/)
+- [Category wise](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/Categories)
 - [Cracking The Coding Interview Book](https://drive.google.com/file/d/1ATfuhzCW73zl3CL5kL3xp5PEq_lAip9f/view?usp=sharing)
 - [Cracking The Code Process](https://drive.google.com/file/d/1wuVRhzlO8owvii_hzUZbvb7nRP_C2QMA/view?usp=sharing)
 - [Coding Interview Preparation - Rohit Vaswani](https://github.com/rohit-vaswani/coding-interview-preparation)

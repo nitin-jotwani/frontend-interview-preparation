@@ -12,6 +12,13 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 
 06. [Peak element](https://practice.geeksforgeeks.org/problems/peak-element/1) ([Solution](https://www.techiedelight.com/find-peak-element-array/))
 
+07. [Searching in an array where adjacent differ by at most k](https://practice.geeksforgeeks.org/problems/searching-in-an-array-where-adjacent-differ-by-at-most-k/0)([Solution](https://tutorialspoint.dev/data-structure/arrays/searching-array-adjacent-differ-k))
+
+08. [Relative Sorting](https://practice.geeksforgeeks.org/problems/relative-sorting/0)([Solution](https://medium.com/algorithm-and-datastructure/relative-sort-array-11a6ea50f20a))
+
+09. [Counting elements in two arrays](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)([Solution](http://cseinterviewquestions2016.blogspot.com/2017/06/counting-elements-in-two-arrays.html))
+
+10. [Elements in the Range](https://practice.geeksforgeeks.org/problems/elements-in-the-range/0)([Solution]())
 - [Find the minimum element in a sorted and rotated array](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 
 - [Maximum element in a sorted and rotated array](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/)

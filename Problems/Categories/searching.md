@@ -4,7 +4,7 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 
 02. [Count the Zeros](https://practice.geeksforgeeks.org/problems/count-the-zeros/0#ExpectOP) ([Solution](https://ide.geeksforgeeks.org/gXszGSfFgG))
 
-03. [Second Largest in array](https://practice.geeksforgeeks.org/problems/second-largest/0) (Solution Present in Repo)
+03. [Second Largest in array](https://practice.geeksforgeeks.org/problems/second-largest/0) ([MySolution](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/secondLargestElement))
 
 04. [Number of occurrence](https://practice.geeksforgeeks.org/problems/number-of-occurrence/0) ([Solution](https://www.techiedelight.com/count-occurrences-number-sorted-array-duplicates/))
 
@@ -18,7 +18,8 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 
 09. [Counting elements in two arrays](https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1)([Solution](http://cseinterviewquestions2016.blogspot.com/2017/06/counting-elements-in-two-arrays.html))
 
-10. [Elements in the Range](https://practice.geeksforgeeks.org/problems/elements-in-the-range/0)([Solution]())
+10. [Elements in the Range](https://practice.geeksforgeeks.org/problems/elements-in-the-range/0)([MySolution](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/elementsInRange_hashing))
+
 - [Find the minimum element in a sorted and rotated array](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/)
 
 - [Maximum element in a sorted and rotated array](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/)

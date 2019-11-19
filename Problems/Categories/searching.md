@@ -22,11 +22,13 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 
 11. [Find the minimum element in a sorted and rotated array](https://practice.geeksforgeeks.org/problems/minimum-number-in-a-sorted-rotated-array/0) ([Solution](https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/))
 
-- [Maximum element in a sorted and rotated array](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/)
+12. [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/) ([Solution](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/))
 
-- [Search an element in a sorted and rotated array](https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/)
+13. [Maximum element in a sorted and rotated array](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/) ([Solution](https://www.geeksforgeeks.org/maximum-element-in-a-sorted-and-rotated-array/))
 
-- [Given a sorted and rotated array, find if there is a pair with a given sum](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/)
+14. [Given an array A[] and a number x, check for pair in A[] with sum as x](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/) ([Solution](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/))
+
+15. [Given a sorted and rotated array, find if there is a pair with a given sum](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) ([Solution](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/))
 
 - [Find the Rotation Count in Rotated Sorted array](https://www.geeksforgeeks.org/find-rotation-count-rotated-sorted-array/)
 

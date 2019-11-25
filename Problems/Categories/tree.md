@@ -15,3 +15,9 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 07. Maximum Depth of Binary Tree ([My Solution](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/maximumDepth_binaryTree))
 
 08. Balanced Binary Tree ([My Solution](https://github.com/nitin-jotwani/interview-preparation/blob/master/Problems/balanced_binaryTree/index.js))
+
+09. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Solution](https://www.includehelp.com/data-structure-tutorial/find-the-number-of-leaf-nodes-in-a-binary-tree.aspx))
+
+10. [Construct Tree from Preorder Traversal](https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1) ([Solution](https://www.techiedelight.com/build-binary-search-tree-from-preorder-sequence/))
+
+11. [Sum of Binary Tree](https://practice.geeksforgeeks.org/problems/sum-of-binary-tree/1) ([Solution](https://www.geeksforgeeks.org/sum-nodes-binary-tree/), [Video](https://www.youtube.com/watch?v=Uze4GgUj3Fs))

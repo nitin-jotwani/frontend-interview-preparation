@@ -48,3 +48,45 @@ export function renderVDom(vNode) {
 
   return $el;
 }
+
+// renderComponent: It grabs the old base(current DOM before change that is saved in component.base)
+export const renderComponent = (component, parent) => {
+  const oldBase = component.base
+  component.base = renderVDOMAdv(
+    component.render(component.props, component.state)
+  )
+
+  if (parent) {
+    parent.appendChild(component.base)
+  } else {
+    oldBase.parentNode.replaceChild(component.base, oldBase)
+  }
+}
+
+const renderVDOMAdv = vnode => {
+  let el
+
+  const { nodeName, attrs, children } = vnode
+
+  if (vnode.split) return document.createTextNode(vnode)
+
+  if (typeof nodeName === 'string') {
+    el = document.createElement(nodeName)
+
+    for (let key in attrs) {
+      el.setAttribute(key, attrs[key])
+    }
+  } else if (typeof nodeName === 'function') { // here is our `People`
+    // initiate our component
+    const component = new nodeName(attrs)
+    el = renderVDOMAdv(
+      component.render(component.props, component.state)
+    )
+    // save DOM reference to `base` field as in `renderComponent`
+    component.base = el
+  }
+  // recursively do this to all of its children
+  (children || []).forEach(child => el.appendChild(renderVDOMAdv(child)))
+
+  return el
+}

@@ -18,7 +18,7 @@ Ref.: [Geeks for Geeks](https://practice.geeksforgeeks.org/explore/?category%5B%
 
 08. Balanced Binary Tree ([My Solution](https://github.com/nitin-jotwani/interview-preparation/blob/master/Problems/balanced_binaryTree/index.js))
 
-09. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([Solution](https://www.includehelp.com/data-structure-tutorial/find-the-number-of-leaf-nodes-in-a-binary-tree.aspx))
+09. [Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) ([My Solution](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/countLeaves_binaryTree))
 
 10. [Construct Tree from Preorder Traversal](https://practice.geeksforgeeks.org/problems/construct-tree-from-preorder-traversal/1) ([Solution](https://www.techiedelight.com/build-binary-search-tree-from-preorder-sequence/))
 

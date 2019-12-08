@@ -20,10 +20,11 @@ This is my journey - how I started preparing for interviews. Initially, it seems
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
 - [Data Structures](https://docs.google.com/document/d/18J9M1XkNqM3YX4zVkU-Qxk8wAqTC-481yq7WKtZFDvM/edit#heading=h.f2myxhcqowh8)
 - [Time Complexity](https://docs.google.com/document/d/1Jqpfxs9GqeqcltwRdPsdDpoOWMxc5PWSpIgKJhsJpew/edit?usp=sharing) [video1](https://www.youtube.com/watch?v=9TlHvipP5yA) [video2](https://www.youtube.com/watch?v=9SgLBjXqwd4&t=301s)
-- [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
 - [Critical Rendering Path](https://docs.google.com/document/d/1CHoBBb9c-Ani0PK_SG3N0rsEv8b3IGeePmHZKsCuk-Y/edit?usp=sharing)
 - [ReactJs](https://docs.google.com/document/d/1cGWKGRDYCKwDP7oqLpNKP8cv1Al4Tj1-naz-hVpgosk/edit?usp=sharing)
 - [System Design](https://docs.google.com/document/d/1bG1pBxhkSG3FHuBopj5oKmQpQaQDgNnGg52EOLvdiQU/edit?usp=sharing)
+- [Design Principles, Patterns](https://docs.google.com/document/d/1-KKrTrtVP5z9RqWbz2Z63uSDpEdXWSz2mUPERoD1uys/edit#)
+- [Dynamic Programming](https://www.youtube.com/watch?v=lVR2u9lsxl8&list=PLdo5W4Nhv31aBrJE1WS4MR9LRfbmZrAQu&index=1)
 - [Concepts, Algos, Techniques](https://github.com/nitin-jotwani/interview-preparation/blob/master/concepts.md)
 - [Good to know](https://github.com/nitin-jotwani/interview-preparation/blob/master/goodToKnow.md)
 

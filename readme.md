@@ -37,6 +37,7 @@ This is my journey - how I started preparing for interviews. Initially, it seems
 - [Questions - Javascript](https://github.com/sudheerj/javascript-interview-questions)
 - [Questions - ReactJs](https://github.com/sudheerj/reactjs-interview-questions)
 - [Questions - Everything!](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
+- [Questions - Javascript](https://github.com/rohan-paul/wtfjs)
 
 ## Coding Preparation
 - [Category wise](https://github.com/nitin-jotwani/interview-preparation/tree/master/Problems/Categories)

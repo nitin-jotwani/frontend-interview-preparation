@@ -7,6 +7,7 @@ function promise () {
 }
 promise();
 
-// Explanation: It's due to var which comes from catch(x) or then(res) are declared like with(){}. for more, refer js doc
+// Explanation: It's due to var which comes from catch(x) or then(res) are declared like with(){}.
 // with ({x: 1, y: 2}) {console.log(x) }
 // console.log('x outside:', x)
+// for more refer js doc

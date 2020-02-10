@@ -8,3 +8,7 @@
     }
     console.log(x, y)
 })()
+
+/*
+x will be overrided just, where as Y will be created with function scope hence available outside.
+*/

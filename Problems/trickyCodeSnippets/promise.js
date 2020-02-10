@@ -3,7 +3,7 @@ function promise () {
     .then(function (res) {
         console.log('res', res);
     });
-    // console.log('res outside', res);
+    // console.log('res outside', res); // will throw err
 }
 promise();
 

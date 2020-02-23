@@ -14,3 +14,12 @@ const result = arr.myMap(el => {
     return el + ' is not divisible';
 });
 console.log(result)
+
+
+
+/*
+One Liner Dudeee!
+Array.prototype.myMap = function(logic) {
+    return this.reduce((acc, el)=>acc.concat(logic(el)),[])
+}
+*/

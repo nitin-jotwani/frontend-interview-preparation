@@ -12,4 +12,20 @@ class MyPromise {
     }
 }
 
-module.exports = MyPromise;
+module.exports = MyPromise; // MyPromiseES5
+
+function MyPromiseES5(exe) {
+    console.log('running promise')
+    exe(resolve)
+}
+
+function resolve(val) {
+    console.log('running then')
+    thenRuns(val)
+}
+
+var thenRuns;
+MyPromise2.prototype.then = function (handler) {
+    console.log('saving then context')
+    thenRuns = handler;
+}

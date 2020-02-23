@@ -18,3 +18,10 @@ function myFilter (testCondition) {
 Array.prototype.myFilter = myFilter;
 const myFilterResult = arr.myFilter(ele=>ele>2);
 console.log('myFilterResult: ', myFilterResult)
+
+/*
+One Liner Dudeeee!
+Array.prototype.myFilter = function(logic) {
+    return this.reduce((acc,el)=>logic(el)?acc.concat(el):acc,[])
+}
+*/

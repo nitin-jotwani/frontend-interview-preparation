@@ -1,20 +1,21 @@
 # Interview Preparation Guidelines & Sources
-This is my journey - how I started preparing for interviews. Initially, it seems confusing how and what to start actually! So, thought to make this guide. :) <br>
+This is my journey - how I started preparing for an Interviews. Initially, it seems confusing how and what to start actually. So, thought to make this guide. :) <br>
 
 ## How to start?
-1. Start from the basics. Brush up your `JS` well enough.
-2. Cover up Data Structures main topics like sorting, searching, binary tree algorithms only for a now.
-3. Now we know `JS` and `DS` both. Time to apply these now. Start solving coding questions. Choose any of the online coding platform. One which I like is [Leetcode](https://leetcode.com) 
+1. `Javascript` Start from the basics. Brush up your `JS` well enough.
+2. `Data Structures`
+    - Sorting
+    - Searching
+    - Binary tree
+    - Dynamic Programming
+    - Stack/Array/LinkedList
+3. Now we know `JS` and `DS` well. Time to apply these now. Start solving coding questions. Choose any of the online coding platform. One which I like is [Leetcode](https://leetcode.com) 
     1. Solve problems from easy then increase your level. 
     2. While solving problems, also look at solutions submitted by other users. You'll observe how optimised code others have written.
     3. Keep doing this and increase your level.
-4. Get hand's on over concepts like - 
-    1. IIFE
-    2. Closures
-    3. Currying
-5. Understand `Dynamic Programming` properly. Why DP over greedy? Why DP over recursion?
-6. Try to create Ployfills on your own. Pick any function from lodash or [ramda](https://ramdajs.com) and try creating your's.
-7. Cover up `JS` in depth various topics from my JS Doc.
+4. `Javascript Advance` Cover up `JS` in depth various topics. Refer my JS doc from Learning Links.
+5. Try to create Ployfills on your own. Pick any function from [lodash](https://lodash.com/docs) or [ramda](https://ramdajs.com) and try creating your's.
+7. Understand how `Recursion` works. Try writing code in recursion as well as using loops whereever possible.  This will give you better understanding.
 
 ## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
@@ -30,6 +31,7 @@ This is my journey - how I started preparing for interviews. Initially, it seems
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
+- [Jenny] (https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
 - [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
 ## Interview Questions

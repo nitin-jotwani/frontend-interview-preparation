@@ -48,6 +48,12 @@ This is my journey - how I started preparing for an Interviews. Initially, it se
 - [Concepts, Algos, Techniques](https://github.com/nitin-jotwani/interview-preparation/blob/master/concepts.md)
 - [Good to know](https://github.com/nitin-jotwani/interview-preparation/blob/master/goodToKnow.md)
 
+## Tips
+- Read blogs, watch youtube videos as much as you can. More you explore more you will get idea
+- If you feel, that you are unable to prepare data structures on your own and going hard then go for a purchased courses online you will find like -
+    - [Algo Expert](https://www.algoexpert.io/product)
+    - [Educative](https://www.educative.io/)
+    
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
 - [Jenny](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)

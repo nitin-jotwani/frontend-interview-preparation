@@ -2,20 +2,39 @@
 This is my journey - how I started preparing for an Interviews. Initially, it seems confusing how and what to start actually. So, thought to make this guide. :) <br>
 
 ## How to start?
-1. `Javascript` Start from the basics. Brush up your `JS` well enough.
-2. `Data Structures`
+### Part 1: Javascript + Data Structures + Alogorithm
+1. **`Javascript`**
+    - Start from the basics. Brush up your `JS` well just to get started for a now
+2. **`Data Structures`**
     - Sorting
     - Searching
     - Binary tree
     - Dynamic Programming
     - Stack/Array/LinkedList
-3. Now we know `JS` and `DS` well. Time to apply these now. Start solving coding questions. Choose any of the online coding platform. One which I like is [Leetcode](https://leetcode.com) 
-    1. Solve problems from easy then increase your level. 
-    2. While solving problems, also look at solutions submitted by other users. You'll observe how optimised code others have written.
-    3. Keep doing this and increase your level.
-4. `Javascript Advance` Cover up `JS` in depth various topics. Refer my JS doc from Learning Links.
-5. Try to create Ployfills on your own. Pick any function from [lodash](https://lodash.com/docs) or [ramda](https://ramdajs.com) and try creating your's.
-7. Understand how `Recursion` works. Try writing code in recursion as well as using loops whereever possible.  This will give you better understanding.
+3. **`Coding Practice`**
+    - Now we know `JS` and `DS` well. Time to apply these now. Start solving coding questions. Choose any of the online coding platform. One which I like is [Leetcode](https://leetcode.com) 
+    1. Solve problems from easy then increase your level
+    2. While solving problems, also look at solutions submitted by other users. You'll observe how optimised code others have written
+    3. Keep doing this and increase your level
+4. **`Javascript Advance`**
+    - Cover up `JS` in depth various topics. Refer my JS doc from Learning Links
+5. **`Time Complexity`**
+    - Understand how to calculate time, space complexity
+6. **`Polyfills`**
+    - Try to create Polyfills on your own. Pick any function from [lodash](https://lodash.com/docs) or [ramda](https://ramdajs.com) and try creating your's
+7. **`Recursion`**
+    - Understand how `Recursion` works. Try writing code in recursion as well as using loops whereever possible.  This will give you better understanding
+
+### Part 2: System Design + Fundamentals
+1. **`System Design`**
+    - Prepare for system design round. Refer my doc from Learning Links
+2. **`Fundamentals`**
+    - Design Principles, Design Patterns
+    - Critical Rendering Path
+    - Event Loop. How it really works
+
+### Part 3: React / Angular
+- Cover up any library in which you are working already.
 
 ## Learning Links
 - [Javascript](https://docs.google.com/document/d/1bTFwe772NttrS0oRj_68FJun0y_KO8OwW9ttJK7w93g/edit#heading=h.ho7ocfa0ovxj)
@@ -31,7 +50,7 @@ This is my journey - how I started preparing for an Interviews. Initially, it se
 
 ## Some good YouTube links
 - [Akshay Saini](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ/featured)
-- [Jenny] (https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
+- [Jenny](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists)
 - [Tushar Roy](https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw)
 
 ## Interview Questions
